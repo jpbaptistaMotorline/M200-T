@@ -1,0 +1,8 @@
+build/
+.vscode/
+output/
+*.bin
+.cache/
+managed_components/
+.VSCodeCounter/
+.DS_Store

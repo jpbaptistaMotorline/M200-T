@@ -1,0 +1,8 @@
+Directory ./spiffs_u does not exists. Try to create it.
+spiffs_cache.c	 > ./spiffs_u/spiffs_cache.c	size: 10033 Bytes
+spiffs_check.c	 > ./spiffs_u/spiffs_check.c	size: 44837 Bytes
+spiffs_gc.c	 > ./spiffs_u/spiffs_gc.c	size: 25740 Bytes
+spiffs.h	 > ./spiffs_u/spiffs.h	size: 28656 Bytes
+spiffs_hydrogen.c	 > ./spiffs_u/spiffs_hydrogen.c	size: 41468 Bytes
+spiffs_nucleus.c	 > ./spiffs_u/spiffs_nucleus.c	size: 88466 Bytes
+spiffs_nucleus.h	 > ./spiffs_u/spiffs_nucleus.h	size: 25488 Bytes

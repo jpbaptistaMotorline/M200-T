@@ -1,0 +1,9 @@
+menu "MOTORLINE M200 CONFIGURATIONS"
+    config WIEGAND_CODE
+        bool  "WIEGAND_CODE"
+        default false
+        help
+            false - M200 4G s/ wiegand, true - M200 4G s/ wiegand
+
+    
+endmenu
